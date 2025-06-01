@@ -1,4 +1,4 @@
-import BoraMineiro from "../enhanced-bora-mineiro"
+import BoraMineiro from "../bora-mineiro"
 
 export default function Page() {
   return <BoraMineiro />
